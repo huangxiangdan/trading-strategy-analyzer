@@ -1,0 +1,36 @@
+# Python缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# 虚拟环境
+venv/
+env/
+.env/
+.venv/
+
+# 系统相关
+.DS_Store
+Thumbs.db
+
+# IDE相关
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Streamlit生成的文件
+.streamlit/secrets.toml
+
+# 数据文件
+*.csv
+*.xlsx
+*.xls
+*.pickle
+*.pkl
+
+# 日志文件
+*.log 

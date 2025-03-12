@@ -13,6 +13,7 @@ cache/
 venv/
 env/
 .env/
+.venv/
 
 # IDE 配置文件
 .vscode/
